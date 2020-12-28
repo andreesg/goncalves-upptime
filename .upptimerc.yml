@@ -8,7 +8,7 @@ sites:
 status-website:
   baseUrl: /goncalves-upptime
   logoUrl: https://www.goncalves.me/img/3.png
-  name: Upptime
+  name: Goncalves.me
   introTitle: "Monitor the uptime of https://www.goncalves.me"
   navbar:
     - title: Status
