@@ -4,17 +4,19 @@
     "url": "https://www.goncalves.me",
     "icon": "https://favicons.githubusercontent.com/www.goncalves.me",
     "slug": "goncalves-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 315,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "time": 233,
+    "timeDay": 220,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
+    "dailyMinutesDown": {
+      "2020-12-30": 0
+    }
   }
 ]
