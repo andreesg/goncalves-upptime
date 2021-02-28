@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.goncalves.me",
     "slug": "goncalves-me",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 274,
-    "timeDay": 331,
-    "timeWeek": 310,
+    "uptimeYear": "99.98%",
+    "time": 273,
+    "timeDay": 221,
+    "timeWeek": 299,
     "timeMonth": 327,
-    "timeYear": 274,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2020-12-30": 22
     }
