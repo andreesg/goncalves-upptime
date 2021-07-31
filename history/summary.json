@@ -6,17 +6,16 @@
     "slug": "goncalves-me",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 316,
-    "timeDay": 353,
-    "timeWeek": 305,
-    "timeMonth": 323,
-    "timeYear": 316,
+    "time": 317,
+    "timeDay": 430,
+    "timeWeek": 333,
+    "timeMonth": 329,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2021-07-30": 14,
       "2020-12-30": 22
     }
   }
