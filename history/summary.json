@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.goncalves.me.ico",
     "slug": "goncalves-me",
     "status": "down",
-    "uptime": "43.03%",
+    "uptime": "43.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 19674,
-    "timeDay": 19607,
-    "timeWeek": 19731,
-    "timeMonth": 19692,
-    "timeYear": 19674,
+    "time": 19673,
+    "timeDay": 19316,
+    "timeWeek": 19689,
+    "timeMonth": 19685,
+    "timeYear": 19673,
     "dailyMinutesDown": {
-      "2025-11-30": 96,
+      "2025-12-01": 103,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -379,8 +380,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   }
 ]
